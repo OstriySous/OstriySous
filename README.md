@@ -1,4 +1,12 @@
-[![Header](https://raw.githubusercontent.com/OstriySous-dev/OstriySous-dev/main/helloworld.png "Header")](https://vk.dev/)
+[![Header](https://raw.githubusercontent.com/OstriySous-dev/OstriySous-dev/main/helloworld.png "Header")](https://github.com/OstriySous-dev)
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+
+<p>Welcome to my page! </br> I'm Nikolay, BackEnd developer from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> <b>Ivanovo, Russia</b>. </p>
+<h3>Things I code with</h3>
+
+
 
 - 👋 CVO for NFS GTA 5
 - 👀 I’m interested in GTA 5 devployment Self-taught
