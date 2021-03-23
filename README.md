@@ -4,7 +4,10 @@
 
 
 <p>Welcome to my page! </br> My name is Nikolay Telegin and I'm a Backend Developer from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> <b>Ivanovo, Russia</b>.</p>
-<h2> ✍ Technologies</h2>
+<h2> 👀 Where to find me</h2>
+<p><a href="https://github.com/OstriySous-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://vk.com/prog97" target="_blank"><img alt="VK" src="https://img.shields.io/badge/VK-%4680C2.svg?&style=for-the-badge&logo=VK&logoColor=white&color=blue" /></a> <a href="https://www.youtube.com/channel/UC93iJKa-KfDMcG61OPtcr5g" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white&color=red" /></a> <img alt="Discord" src="https://img.shields.io/badge/OstriySous_0404-%7289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white&color=black" />
+</p>
+<h2> 🔧 Technologies & Tools</h2>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="csharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -18,9 +21,6 @@
   <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-</p>
-<h2> 🔧 Tools</h2>
-<p>
   <img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a" />
   <img alt="Bash" src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" />
@@ -33,9 +33,6 @@
 <a href="https://github.com/OstriySous-dev/OstriySous-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OstriySous-dev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-<h2> 👀 Where to find me</h2>
-<p><a href="https://github.com/OstriySous-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://vk.com/prog97" target="_blank"><img alt="VK" src="https://img.shields.io/badge/VK-%4680C2.svg?&style=for-the-badge&logo=VK&logoColor=white&color=blue" /></a> <a href="https://www.youtube.com/channel/UC93iJKa-KfDMcG61OPtcr5g" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white&color=red" /></a> <img alt="Discord" src="https://img.shields.io/badge/OstriySous_0404-%7289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white&color=black" />
-</p>
 
 ____
 <h2>🔙 Previous Projects</h2>
