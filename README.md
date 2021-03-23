@@ -38,8 +38,76 @@ ____
 <h2>🔙 Previous Projects</h2>
 <details>
   <summary>Expand</summary>
+  - Development of my own information security forum [(IPS CMS)](https://invisioncommunity.com/)
+  
+  - Website development for a TV transportation company from Finland
 
-  It will be filled in the near future!
+  - [Website](http://intabakopt.ru/) for the tobacco production company
+
+  - Writing a game bot on VK API for youtuber [Sodyan](https://www.youtube.com/channel/UCIWbvEaoTs8qtfVwi6BXkxQ) (1.34 M Subscribers)
+
+  - Major GTA 5 project (Classified now)
 </details>
 
 <h2>✨ Milestones</h2>
+<h3>2016</h2>
+<details>
+  <summary>Expand</summary>
+  
+- Start learning programming (JavaScript)
+</details>
+
+<h3>2017</h2>
+<details>
+  <summary>Expand</summary>
+  
+- Learned how to create websites (HTML, CSS, JS)
+</details>
+
+<h3>2018</h2>
+<details>
+  <summary>Expand</summary>
+  
+- Hacking multiple minecraft launchers
+
+- Learned to create forums
+</details>
+
+<h3>2019</h2>
+<details>
+  <summary>Expand</summary>
+  
+- Learned the VK API
+
+- Learned PHP 5.6, 7.1
+
+- Start using MySQL in projects
+</details>
+
+<h3>2020</h2>
+<details>
+  <summary>Expand</summary>
+  
+- Started using [RedBean](https://redbeanphp.com/index.php) in projects
+
+- Learned GIT and NPM services
+
+- Getting started with an in-depth study of TypeScript and C#
+
+- Learned Postgresql
+</details>
+
+<h3>2021</h2>
+<details>
+  <summary>Expand</summary>
+  
+- Learned Docker and Docker-compose
+
+- Learned Discord oAuth2 Implementation
+
+- Learned Deno
+
+- [Learned Vue](https://vuejs.org)
+
+- [Learned Discord API](https://discord.com/developers/applications)
+</details>
