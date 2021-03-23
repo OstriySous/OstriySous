@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/OstriySous-dev/blob/main/helloworld.png "Header")]
+[![Header](https://raw.githubusercontent.com/OstriySous-dev/OstriySous-dev/main/helloworld.png "Header")](https://vk.dev/)
 
 - 👋 CVO for NFS GTA 5
 - 👀 I’m interested in GTA 5 devployment Self-taught
