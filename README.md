@@ -1,10 +1,10 @@
 [![Header](https://raw.githubusercontent.com/OstriySous-dev/OstriySous-dev/main/helloworld.png "Header")](https://github.com/OstriySous-dev)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 
 <p>Welcome to my page! </br> My name is Nikolay Telegin and I'm a Backend Developer from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> <b>Ivanovo, Russia</b>. You can find me on , or on . </p>
-<h3>✍ Technologies</h3>
+## ✍ Technologies
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="csharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -19,7 +19,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
-<h3>🔧 Tools</h3>
+## 🔧 Tools
 <p>
   ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
   ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
