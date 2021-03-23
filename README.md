@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/OstriySous-dev/OstriySous-dev/main/helloworld.png "Header")](https://github.com/OstriySous-dev) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=${OstriySous-dev})
+[![Header](https://raw.githubusercontent.com/OstriySous-dev/OstriySous-dev/main/helloworld.png "Header")](https://github.com/OstriySous-dev) <center>![visitors](https://visitor-badge.laobi.icu/badge?page_id=${OstriySous-dev})</center>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
