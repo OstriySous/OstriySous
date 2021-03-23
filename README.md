@@ -1,5 +1,5 @@
 [![Header](https://raw.githubusercontent.com/OstriySous-dev/OstriySous-dev/main/helloworld.png "Header")](https://github.com/OstriySous-dev)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=${OstriySous-dev})
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 
@@ -26,7 +26,7 @@
   <img alt="Bash" src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" />
   <img alt="Digital Ocean" src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a" />
 </p>
-<h2> 📈 GitHub Stats</h2>![visitors](https://visitor-badge.laobi.icu/badge?page_id=${OstriySous-dev})
+<h2> 📈 GitHub Stats</h2>
 <a href="https://github.com/OstriySous-dev/OstriySous-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstriySous-dev&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -38,7 +38,6 @@
 </p>
 
 ____
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=${OstriySous-dev})
 <h2>🔙 Previous Projects</h2>
 <details>
   <summary>Expand</summary>
