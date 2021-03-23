@@ -1,9 +1,9 @@
-[![Header](https://raw.githubusercontent.com/OstriySous-dev/OstriySous-dev/main/helloworld.png "Header")](https://github.com/OstriySous-dev)
+[![Header](https://raw.githubusercontent.com/OstriySous-dev/OstriySous-dev/main/helloworld.png "Header")](https://github.com/OstriySous-dev) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=${OstriySous-dev})
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 
-<p>Welcome to my page! </br> My name is Nikolay Telegin and I'm a Backend Developer from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> <b>Ivanovo, Russia</b>. You can find me on , or on . </p>
+<p>Welcome to my page! </br> My name is Nikolay Telegin and I'm a Backend Developer from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> <b>Ivanovo, Russia</b>.</p>
 <h2> ✍ Technologies</h2>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -26,15 +26,13 @@
   <img alt="Bash" src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" />
   <img alt="Digital Ocean" src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a" />
 </p>
-
-- 👋 CVO for NFS GTA 5
-- 👀 I’m interested in GTA 5 devployment Self-taught
-- 🌱 I’m currently learning TypeScript, C# PostgreSQL, Deno
+<h3> 👀 Where to find me</h3>
+<p><a href="https://github.com/OstriySous-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://vk.com/prog97" target="_blank"><img alt="VK" src="https://img.shields.io/badge/VK-%4680C2.svg?&style=for-the-badge&logo=vk&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UC93iJKa-KfDMcG61OPtcr5g" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a> <img alt="Medium" src="https://img.shields.io/badge/OstriySous
+#0404-%7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+</p>
 - 📫 You can contact me via discord OstriySous#0404
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=${OstriySous-dev})
-
-[🏡 Project Website](https://nfsgta5.com/) | [📺 Youtube](https://www.youtube.com/channel/UC93iJKa-KfDMcG61OPtcr5g) |
 
 ____
 
