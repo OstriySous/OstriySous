@@ -27,7 +27,7 @@
   <img alt="Digital Ocean" src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a" />
 </p>
 <h3> 👀 Where to find me</h3>
-<p><a href="https://github.com/OstriySous-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://vk.com/prog97" target="_blank"><img alt="VK" src="https://img.shields.io/badge/VK-%4680C2.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UC93iJKa-KfDMcG61OPtcr5g" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%FF0000.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <img alt="Discord" src="https://img.shields.io/badge/OstriySous_0404-%7289DA.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+<p><a href="https://github.com/OstriySous-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://vk.com/prog97" target="_blank"><img alt="VK" src="https://img.shields.io/badge/VK-%4680C2.svg?&style=for-the-badge&logo=VK&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UC93iJKa-KfDMcG61OPtcr5g" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" /></a> <img alt="Discord" src="https://img.shields.io/badge/OstriySous_0404-%7289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white" />
 </p>
 - 📫 You can contact me via discord OstriySous#0404
 
