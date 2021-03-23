@@ -38,6 +38,7 @@ ____
 <h2>🔙 Previous Projects</h2>
 <details>
   <summary>Expand</summary>
+  
   - Development of my own information security forum [(IPS CMS)](https://invisioncommunity.com/)
   
   - Website development for a TV transportation company from Finland
