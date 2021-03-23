@@ -39,15 +39,11 @@
 
 ____
 
-## Previous Projects
+<h2>🔙 Previous Projects</h2>
 <details>
   <summary>Expand</summary>
 
   It will be filled in the near future!
 </details>
 
-## Milestones
-
-
-## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ostriysous-dev&show_icons=true&theme=cobalt) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ostriysous-dev)](https://github.com/anuraghazra/github-readme-stats)
+<h2>✨ Milestones</h2>
