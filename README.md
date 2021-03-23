@@ -26,8 +26,7 @@
   <img alt="Bash" src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" />
   <img alt="Digital Ocean" src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a" />
 </p>
-<h2> 📈 GitHub Stats</h2>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=${OstriySous-dev})
+<h2> 📈 GitHub Stats</h2>![visitors](https://visitor-badge.laobi.icu/badge?page_id=${OstriySous-dev})
 <a href="https://github.com/OstriySous-dev/OstriySous-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstriySous-dev&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
