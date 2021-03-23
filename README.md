@@ -4,7 +4,7 @@
 
 
 <p>Welcome to my page! </br> My name is Nikolay Telegin and I'm a Backend Developer from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> <b>Ivanovo, Russia</b>. You can find me on , or on . </p>
-<h3>Things I code with</h3>
+<h3>🔧 Technologies & Tools</h3>
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="csharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
