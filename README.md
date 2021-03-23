@@ -38,7 +38,7 @@
 </p>
 
 ____
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=${OstriySous-dev})
 <h2>🔙 Previous Projects</h2>
 <details>
   <summary>Expand</summary>
