@@ -33,7 +33,7 @@
 <a href="https://github.com/OstriySous-dev/OstriySous-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OstriySous-dev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-<h3> 👀 Where to find me</h3>
+<h2> 👀 Where to find me</h2>
 <p><a href="https://github.com/OstriySous-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://vk.com/prog97" target="_blank"><img alt="VK" src="https://img.shields.io/badge/VK-%4680C2.svg?&style=for-the-badge&logo=VK&logoColor=white&color=blue" /></a> <a href="https://www.youtube.com/channel/UC93iJKa-KfDMcG61OPtcr5g" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white&color=red" /></a> <img alt="Discord" src="https://img.shields.io/badge/OstriySous_0404-%7289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white&color=black" />
 </p>
 
