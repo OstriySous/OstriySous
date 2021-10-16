@@ -1,9 +1,9 @@
 [![Header](https://raw.githubusercontent.com/OstriySous/OstriySous/main/helloworld.png "Header")](https://github.com/OstriySous)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=${OstriySous-dev})
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 
 <p>Welcome to my page! </br> My name is Nikolay Telegin and I'm a Backend Developer from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> <b>Moscow, Russia</b>.</p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=${OstriySous-dev})
 <h2> 👀 Where to find me</h2>
 <p><a href="https://github.com/OstriySous" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://vk.com/prog97" target="_blank"><img alt="VK" src="https://img.shields.io/badge/VK-%4680C2.svg?&style=for-the-badge&logo=VK&logoColor=white&color=blue" /></a> <a href="https://www.youtube.com/channel/UC93iJKa-KfDMcG61OPtcr5g" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white&color=red" /></a> <a href="https://discordapp.com/users/261495835454341120" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%7289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white&color=black" /></a>
 </p>
