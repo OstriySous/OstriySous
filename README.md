@@ -1,11 +1,11 @@
-[![Header](https://raw.githubusercontent.com/OstriySous-dev/OstriySous-dev/main/helloworld.png "Header")](https://github.com/OstriySous-dev)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=${OstriySous-dev})
+[![Header](https://raw.githubusercontent.com/OstriySous/OstriySous/main/helloworld.png "Header")](https://github.com/OstriySous)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=${OstriySous})
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 
 <p>Welcome to my page! </br> My name is Nikolay Telegin and I'm a Backend Developer from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> <b>Ivanovo, Russia</b>.</p>
 <h2> 👀 Where to find me</h2>
-<p><a href="https://github.com/OstriySous-dev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://vk.com/prog97" target="_blank"><img alt="VK" src="https://img.shields.io/badge/VK-%4680C2.svg?&style=for-the-badge&logo=VK&logoColor=white&color=blue" /></a> <a href="https://www.youtube.com/channel/UC93iJKa-KfDMcG61OPtcr5g" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white&color=red" /></a> <a href="https://discordapp.com/users/261495835454341120" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%7289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white&color=black" /></a>
+<p><a href="https://github.com/OstriySous" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://vk.com/prog97" target="_blank"><img alt="VK" src="https://img.shields.io/badge/VK-%4680C2.svg?&style=for-the-badge&logo=VK&logoColor=white&color=blue" /></a> <a href="https://www.youtube.com/channel/UC93iJKa-KfDMcG61OPtcr5g" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white&color=red" /></a> <a href="https://discordapp.com/users/261495835454341120" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%7289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white&color=black" /></a>
 </p>
 <h2> 🔧 Technologies & Tools</h2>
 <p>
@@ -30,11 +30,11 @@
   <img alt="Digital Ocean" src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a" />
 </p>
 <h2> 📈 GitHub Stats</h2>
-<a href="https://github.com/OstriySous-dev/OstriySous-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstriySous-dev&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/OstriySous/OstriySous">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstriySous&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/OstriySous-dev/OstriySous-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OstriySous-dev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/OstriySous/OstriySous">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OstriySous&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 ____
