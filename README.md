@@ -4,8 +4,6 @@
 
 <p>Welcome to my page! </br> My name is Nikolay Telegin and I'm a Backend Developer from <img src="https://image.flaticon.com/icons/svg/197/197408.svg" width="13"/> <b>Moscow, Russia</b>. </p>
 
-<h2> 👀 Where to find me</h2>
-<p><a href="https://github.com/OstriySous" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://t.me/OstriySous" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%26A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white&color=26A5E4" /></a> <a href="https://www.youtube.com/channel/UC93iJKa-KfDMcG61OPtcr5g" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white&color=FF0000" /></a> <a href="https://discordapp.com/users/261495835454341120" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%7289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white&color=5865F2" /></a>
 </p>
 <h2> 🔧 Technologies & Tools</h2>
 <p>
@@ -28,9 +26,8 @@
 <a href="https://github.com/OstriySous/OstriySous">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OstriySous&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-<a href="https://github.com/OstriySous/OstriySous">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstriySous&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<a href="https://github.com/OstriySous/OstriySous"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=OstriySous&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstriySous&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
 
 ____
 <h2>🔙 Previous Projects</h2>
