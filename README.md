@@ -4,9 +4,9 @@
 
 <p align="center">
 <a href="https://github.com/OstriySous" target="_blank"><img alt="Github" src="https://github.com/OstriySous/OstriySous/blob/main/github.png" width="40px"/></a>
-<a href="https://t.me/OstriySous" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%26A5E4.svg?&style=for-the-badge&logo=Telegram&logoColor=white&color=26A5E4" /></a>
-<a href="https://www.youtube.com/channel/UC93iJKa-KfDMcG61OPtcr5g" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white&color=FF0000" /></a>
-<a href="https://discordapp.com/users/261495835454341120" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%7289DA.svg?&style=for-the-badge&logo=Discord&logoColor=white&color=5865F2" /></a>
+<a href="https://t.me/OstriySous" target="_blank"><img alt="Telegram" src="https://github.com/OstriySous/OstriySous/blob/main/telegram.png" width="40px"/></a>
+<a href="https://www.youtube.com/channel/UC93iJKa-KfDMcG61OPtcr5g" target="_blank"><img alt="YouTube" src="https://github.com/OstriySous/OstriySous/blob/main/youtube.png" width="40px"/></a>
+<a href="https://discordapp.com/users/261495835454341120" target="_blank"><img alt="Discord" src="https://github.com/OstriySous/OstriySous/blob/main/discord.png" width="40px"/></a>
 </p>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <b>Hey! Nice to see you.</b></h1>
 
