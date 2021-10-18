@@ -4,8 +4,11 @@
 
 <p align="center">
 <a href="https://github.com/OstriySous" target="_blank"><img alt="Github" src="https://github.com/OstriySous/OstriySous/blob/main/github.png" width="40px"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://t.me/OstriySous" target="_blank"><img alt="Telegram" src="https://github.com/OstriySous/OstriySous/blob/main/telegram.png" width="40px"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://www.youtube.com/channel/UC93iJKa-KfDMcG61OPtcr5g" target="_blank"><img alt="YouTube" src="https://github.com/OstriySous/OstriySous/blob/main/youtube.png" width="40px"/></a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://discordapp.com/users/261495835454341120" target="_blank"><img alt="Discord" src="https://github.com/OstriySous/OstriySous/blob/main/discord.png" width="40px"/></a>
 </p>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <b>Hey! Nice to see you.</b></h1>
