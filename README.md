@@ -12,15 +12,6 @@
 <a href="https://discordapp.com/users/261495835454341120" target="_blank"><img alt="Discord" src="https://github.com/OstriySous/OstriySous/blob/main/discord.png" width="40px"/></a>
 </p>
 
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/OstriySous">
-    <img alt="OstriySous's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OstriySous&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
