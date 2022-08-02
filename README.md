@@ -12,28 +12,6 @@
 <a href="https://discordapp.com/users/261495835454341120" target="_blank"><img alt="Discord" src="https://github.com/OstriySous/OstriySous/blob/main/discord.png" width="40px"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/OstriySous?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/OstriySous"/></a>
-  <a href="https://github.com/OstriySous?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/OstriySous?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/OstriySous/View-Counter">
-    <img alt="views" title="GitHub profile views" src="http://intabakopt.ru/view-counter.php"/></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/OstriySous/Aurorium"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OstriySous&repo=aurorium&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="aurorium"></a>
-  <a href="https://github.com/OstriySous/Aurorium"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OstriySous&repo=aurorium&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="aurorium"></a>
-  <a href="https://github.com/OstriySous/Aurorium"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OstriySous&repo=aurorium&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="aurorium"></a>
-  <a href="https://github.com/OstriySous/Aurorium"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OstriySous&repo=aurorium&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="aurorium"></a>
-    <a href="https://github.com/OstriySous/Aurorium"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OstriySous&repo=aurorium&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="aurorium"></a>
-    <a href="https://github.com/OstriySous/Aurorium"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OstriySous&repo=aurorium&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="aurorium"></a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/OstriySous?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
