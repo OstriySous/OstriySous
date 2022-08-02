@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://i.imgur.com/gtgf88y.gif"></center>
-</div>
 
 <p align="center">
 <a href="https://github.com/OstriySous" target="_blank"><img alt="Github" src="https://github.com/OstriySous/OstriySous/blob/main/github.png" width="40px"/></a>
