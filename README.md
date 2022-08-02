@@ -48,16 +48,10 @@ ____
 <h2>🔙 Previous Projects</h2>
 <details>
   <summary>Expand</summary>
-  
-  - Development of my own information security forum [(IPS CMS)](https://invisioncommunity.com/)
-  
-  - Website development for a TV transportation company from Finland
 
-  - [Website](http://intabakopt.ru/) for the tobacco production company
+  - Создание игрового бота ВКонтакте на языке PHP с использование CallBack VK API для ютуб блогера [Sodyan](https://www.youtube.com/channel/UCIWbvEaoTs8qtfVwi6BXkxQ) (1.63 млн подисчиков)
 
-  - Writing a game bot on VK API for youtuber [Sodyan](https://www.youtube.com/channel/UCIWbvEaoTs8qtfVwi6BXkxQ) (1.34 M Subscribers)
-
-  - GTA 5 RP project (Classified now)
+  - Участвовал в разработке игрового Role Play проекта в GTA V на платформе alt:V
 </details>
 
 <h2>✨ Milestones</h2>
